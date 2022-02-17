@@ -1,0 +1,365 @@
+{
+    "questions": [
+        {
+            "questionText": "How many seasons of Friends are there?",
+            "options": [
+                {
+                    "text": "9"
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "6"
+                },
+                {
+                    "text": "10",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "How many times did Ross get divorced?",
+            "options": [
+                {
+                    "text": "3",
+                    "correct": true
+                },
+                {
+                    "text": "2"
+                },
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "none"
+                }
+            ]
+        },
+        {
+            "questionText": "What are the names of Ross and Monica’s parents?",
+            "options": [
+                {
+                    "text": "Edward and Joan"
+                },
+                {
+                    "text": "Harry and Liz"
+                },
+                {
+                    "text": "Jack and Judy",
+                    "correct": true
+                },
+                {
+                    "text": "John and Mary"
+                }
+            ]
+         },
+        {
+            "questionText": "Who was the maid of honor at Monica's wedding?",
+            "options": [
+                {
+                    "text": "Pheobe"
+                },
+                {
+                    "text": "Rachel",
+                    "correct": true
+                },
+                {
+                    "text": "Ross"
+                },
+                {
+                    "text": "Judy"
+                }
+            ]
+        },
+        {
+            "questionText": "Monica dated an ophthalmologist named?",
+            "options": [
+                {
+                    "text": "Richard",
+                    "correct": true
+                },
+                {
+                    "text": "Edward"
+                },
+                {
+                    "text": "Jack"
+                },
+                {
+                    "text": "Ben"
+                }
+            ]
+         },
+        {
+            "questionText": "What is the name of Phoebe's twin sister?",
+            "options": [
+                {
+                    "text": "Elizebath"
+                },
+                {
+                    "text": "Judy"
+                },
+                {
+                    "text": "Mary"
+                },
+                {
+                    "text": "Ursula",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "Which of Joey's sisters did Chandler fool around with?",
+            "options": [
+                {
+                    "text": "Gina"
+                },
+                {
+                    "text": "Mary Teresa"
+                },
+                {
+                    "text": "Mary Angela",
+                    "correct": true
+                },
+                {
+                    "text": "Dina"
+                }
+            ]
+        },
+        {
+            "questionText": "What does Rachel guess Chandler's job is?",
+            "options": [
+                {
+                    "text": "A terminator"
+                },
+                {
+                    "text": "A transformer"
+                },
+                {
+                    "text": "A transponster",
+                    "correct": true
+                },
+                {
+                    "text": "A transportor"
+                }
+            ]
+        },
+        {
+            "questionText": "Joey and Chandler's TV guide is addressed to who?",
+            "options": [
+                {
+                    "text": "Mister Chandler Bong"
+                },
+                {
+                    "text": "Miss Chanandler Bong",
+                    "correct": true
+                },
+                {
+                    "text": "Miss Chanandler Bing"
+                },
+                {
+                    "text": "Mister Chandler Bing"
+                }
+            ]
+        },
+        {
+            "questionText": "What was the name of Ross' pet monkey?",
+            "options": [
+                {
+                    "text": "Marcel",
+                    "correct": true
+                },
+                {
+                    "text": "Tommy"
+                },
+                {
+                    "text": "Bugsy"
+                },
+                {
+                    "text": "Anthony"
+                }
+            ]
+        },
+        {
+            "questionText": "What form of self-defense does Ross try to teach Rachel and Phoebe?",
+            "options": [
+                {
+                    "text": "Unagi",
+                    "correct": true
+                },
+                {
+                    "text": "MMA"
+                },
+                {
+                    "text": "Karate"
+                },
+                {
+                    "text": "Wrestling"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the name of Joeyss stuffed penguin?",
+            "options": [
+                {
+                    "text": "Joe"
+                },
+                {
+                    "text": "Bugsy"
+                },
+                {
+                    "text": "Hugsy",
+                    "correct": true
+                },
+                {
+                    "text": "Tommy"
+                }
+            ]
+        },
+        {
+            "questionText": "How many sisters does Joey have?",
+            "options": [
+                {
+                    "text": "4"
+                },
+                {
+                    "text": "7",
+                    "correct": true
+                },
+                {
+                    "text": "9"
+                },
+                {
+                    "text": "2"
+                }
+            ]
+        },
+        {
+            "questionText": "Joey doesn't share what?",
+            "options": [
+                {
+                    "text": "Room"
+                },
+                {
+                    "text": "Cloths"
+                },
+                {
+                    "text": "Food",
+                    "correct": true
+                },
+                {
+                    "text": "Shoes"
+                }
+            ]
+        },
+        {
+            "questionText": "Chick Jr. and Duck Jr. got stuck in what?",
+            "options": [
+                {
+                    "text": "A Tennis Table"
+                },
+                {
+                    "text": "A Snooker Table"
+                },
+                {
+                    "text": "A Food Table"
+                },
+                {
+                    "text": "A Foosball Table",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "What are the names of Rachel's sisters?",
+            "options": [
+                {
+                    "text": "Jill and Amy",
+                    "correct": true
+                },
+                {
+                    "text": "Jill and Judy"
+                },
+                {
+                    "text": "Judy and Amy"
+                },
+                {
+                    "text": "Mary and Amy"
+                }
+            ]
+        },
+        {
+            "questionText": "Phoebe finds what in her soda can?",
+            "options": [
+                {
+                    "text": "A Human Thumb",
+                    "correct": true
+                },
+                {
+                    "text": "A Gold Coin"
+                },
+                {
+                    "text": "A Tooth"
+                },
+                {
+                    "text": "A Nail"
+                }
+            ]
+        },
+        {
+            "questionText": "Rachel goes on Ross' honeymoon by herself where?",
+            "options": [
+                {
+                    "text": "Tokyo, Japan"
+                },
+                {
+                    "text": "London, England"
+                },
+                {
+                    "text": "Paris, France"
+                },
+                {
+                    "text": "Athens, Greece",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "How many pages was Rachel's letter to Ross?",
+            "options": [
+                {
+                    "text": "12 pages (front and back)"
+                },
+                {
+                    "text": "18 pages (front and back)",
+                    "correct": true
+                },
+                {
+                    "text": "19 pages (front and back)"
+                },
+                {
+                    "text": "15 pages (front and back)"
+                }
+            ]
+        },
+        {
+            "questionText": "What was the name of Ross and Rachel's male nanny?",
+            "options": [
+                {
+                    "text": "Sandy",
+                    "correct": true
+                },
+                {
+                    "text": "Andy"
+                },
+                {
+                    "text": "Kenny"
+                },
+                {
+                    "text": "Tommy"
+                }
+            ]
+        }
+        
+    ]
+}
